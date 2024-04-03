@@ -7,8 +7,12 @@ function inverterString(converter) {
 }
 
 // como fazer para usar 
+// não consegui pensar em uma forma de deixar a instring como maravilhoso e Deus
 
 let StringAtual = 'Deus é maravilhoso';
+
 let stringInvertida = inverterString(StringAtual);
+
 console.log('String original:', StringAtual);
+
 console.log('String invertida:', stringInvertida);
